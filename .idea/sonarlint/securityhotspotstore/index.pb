@@ -15,3 +15,5 @@ E
 contracts/review.clar,f/2/f21d713effb95bb8843df2d3a4b7c7e87e439064
 D
 tests/review.test.ts,6/7/676a623941d3d2a4e1c58d47de3c005d5b38eb34
+N
+contracts/loyalty-program.clar,1/f/1f77ac65443c986f3e681f9522f99c810f3fc0b7

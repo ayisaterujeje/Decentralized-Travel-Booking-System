@@ -10,6 +10,11 @@ path = 'contracts/accommodation.clar'
 clarity_version = 2
 epoch = 2.5
 
+[contracts.loyalty-program]
+path = 'contracts/loyalty-program.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.review]
 path = 'contracts/review.clar'
 clarity_version = 2
