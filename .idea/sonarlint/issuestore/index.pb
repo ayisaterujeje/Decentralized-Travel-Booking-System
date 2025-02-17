@@ -17,3 +17,5 @@ D
 tests/review.test.ts,6/7/676a623941d3d2a4e1c58d47de3c005d5b38eb34
 N
 contracts/loyalty-program.clar,1/f/1f77ac65443c986f3e681f9522f99c810f3fc0b7
+M
+tests/loyalty-program.test.ts,a/5/a50b991fb50a1b4a2e541ea625ff704344142168
