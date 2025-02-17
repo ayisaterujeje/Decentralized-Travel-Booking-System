@@ -7,3 +7,5 @@ L
 contracts/accommodation.clar,8/0/8022f4838c3fd722d7b720230198d527e3f6a574
 K
 tests/accommodation.test.ts,9/0/907c4a5d414cfb4f5d929fb695e412c26a20026a
+M
+contracts/transportation.clar,1/4/145fe0c902f800c967cb71bafcf59628060dbfe6
