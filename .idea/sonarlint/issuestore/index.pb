@@ -9,3 +9,5 @@ K
 tests/accommodation.test.ts,9/0/907c4a5d414cfb4f5d929fb695e412c26a20026a
 M
 contracts/transportation.clar,1/4/145fe0c902f800c967cb71bafcf59628060dbfe6
+L
+tests/transportation.test.ts,7/d/7d9227559429b3d048fbba9f220ba36669cc9d12
